@@ -1,5 +1,7 @@
 ## Hosted Projects 
-- **Christmas Website**: [christmas-website-two.vercel.app](https://christmas-website-two.vercel.app/) (Vue.js/Nuxt.js) 
+- **Christmas Website**: [christmaswebproject.vercel.app
+](christmaswebproject.vercel.app
+) (Vue.js/Nuxt.js) 
 
 ## Contact 
 - **Email**: [masonhorne.dev@gmail.com](mailto:masonhorne.dev@gmail.com)
